@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pradep</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently working on **Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PradepB](https://github.com/PradepB)
 
-- 📝 I regulary write articles on [https://article-post.herokuapp.com/](https://article-post.herokuapp.com/)
-
-- 💬 Ask me about **Node.js, MongoDB, Angular, Javascript**
+- 💬 Ask me about **Node.js, MongoDB, Angular, Javascript, Vue.js**
 
 - 📫 How to reach me **pradeepb014@gmail.com**
 
