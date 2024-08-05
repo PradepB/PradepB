@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PradepB?tab=repositories](https://github.com/PradepB?tab=repositories)
 
-- 💬 Ask me about **Vue.js, Node.js, MongoDB, Angular, Javascript**
+- 💬 Ask me about **Vue.js, ReactJs, Node.js, MongoDB, Angular, Javascript**
 
 - 📫 How to reach me **pradeepb014@gmail.com**
 
