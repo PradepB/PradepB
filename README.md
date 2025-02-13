@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pradep</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Vue.js Projects**
+- 🔭 I’m currently working on **React (Next.js) Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PradepB?tab=repositories](https://github.com/PradepB?tab=repositories)
 
-- 💬 Ask me about **Vue.js, ReactJs, Node.js, MongoDB, Angular, Javascript**
+- 💬 Ask me about **ReactJs, Next.js, Vue.js, Node.js, MongoDB, Angular, Javascript**
 
 - 📫 How to reach me **pradeepb014@gmail.com**
 
