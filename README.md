@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **pradeepb014@gmail.com**
 
+![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
